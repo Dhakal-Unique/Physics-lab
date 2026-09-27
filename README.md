@@ -25,7 +25,9 @@ Built by **Unique Dhakal**
 
 ## Live Demo
 
-Deploy to Vercel in one click:
+**Live site:** [https://physicslab-ashen.vercel.app](https://physicslab-ashen.vercel.app)
+
+Deploy your own copy:
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Dhakal-Unique/Physics-lab)
 
